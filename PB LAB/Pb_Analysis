@@ -30,7 +30,7 @@ First, we read the data. I like to create a filename object that I can modify ba
 
 
 ```{r readcsv}
-filename = "/home/CAMPUS/mwl04747/github/Environmental_Hazards/Data/Pb_and_Parks/EA 30 Data Entry - Sheet1.csv"
+filename = "/home/CAMPUS/mjfa2017/github/PB Lab/PB LAB/EA 30 Data Entry - Sheet1 (2).csv"
 import <- read.csv(filename)
 str(import)
 ```
